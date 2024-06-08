@@ -1,0 +1,30 @@
+.firstpart{
+    display: flex;
+}
+#coverimg{
+    width: 325px;
+    padding: 10px 10px;
+}
+body{
+    border: 2px solid black;
+    width: 900px; 
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#firstp{
+    padding: 10px;
+    color: #565959;
+}
+#img2{
+    width:100px;
+}
+a{
+    color:#007185;
+}
+.para{
+    padding-bottom: 3px;
+    /* font-style: inherit; */
+}
